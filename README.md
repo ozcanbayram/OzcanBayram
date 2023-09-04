@@ -18,5 +18,5 @@ For more information about me, you can reach me from the links below.
 
 ## 🌐 Socials - Contact:
 - Email    :  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ozzcanbayram@gmail.com" target="_blank">Send Me Mail</a>
-- Linkedin :  <a href="https://www.linkedin.com/in/%C3%B6zcan-bayram-a91b06254/ " target="_blank">My Lınkedın Profile</a>
+- Linkedin :  <a href="https://www.linkedin.com/in/%C3%B6zcan-bayram-a91b06254/" target="_blank">My Lınkedın Profile</a>
 - Instagram:  <a href="https://www.instagram.com/ozcan0/" target="_blank">My Instagram Profile</a>
