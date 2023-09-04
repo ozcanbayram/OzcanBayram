@@ -1,6 +1,7 @@
 ### Hello, I'm Özcan Bayram!👋
 
-💫 About Me   ✨
+## 💫 About Me 
+✨ 
 
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanbayram&layout=compact&theme=dracula)
