@@ -18,5 +18,5 @@ For more information about me, you can reach me from the links below.
 
 ## 🌐 Socials - Contact:
 - Email    : ozzcanbayram@gmail.com
-- Linkedin : https://www.linkedin.com/in/%C3%B6zcan-bayram-a91b06254/
+- Linkedin : https://www.linkedin.com/in/%C3%B6zcan-bayram-a91b06254/ 
 - Instagram: https://www.instagram.com/ozcan0/
