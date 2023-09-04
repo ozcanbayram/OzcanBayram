@@ -19,6 +19,9 @@ For more information about me, you can reach me from the links below.
 </a>
 
 ## 🌐 Socials - Contact:
-- Email    :  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ozzcanbayram@gmail.com" target="_blank">Send Me Mail</a>
-- Linkedin :  <a href="https://www.linkedin.com/in/%C3%B6zcan-bayram/" target="_blank">My Lınkedın Profile</a>
-- Instagram:  <a href="https://www.instagram.com/ozcan0/" target="_blank">My Instagram Profile</a>
+- Email    :  [![E-mail](https://img.shields.io/badge/email-%23E4405F.svg?logo=email&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ozzcanbayram@gmail.com)
+- Linkedin :  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6zcan-bayram/) 
+- Instagram:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ozcan0/) 
+
+
+
