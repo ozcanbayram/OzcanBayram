@@ -6,7 +6,7 @@ You can review my projects, support me, and
 For more information about me, you can reach me from the links below.
 
 ## Languages
-![Langs](https://skillicons.dev/icons?i=cs,java,kotlin,javascript,html,css,mysql")
+![Langs](https://skillicons.dev/icons?i=cs,java,kotlin,javascript,html,css,mysql,py,")
 
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanbayram&layout=compact&theme=dracula)
@@ -17,6 +17,6 @@ For more information about me, you can reach me from the links below.
 </a>
 
 ## 🌐 Socials - Contact:
-- Email    : ozzcanbayram@gmail.com
-- Linkedin : https://www.linkedin.com/in/%C3%B6zcan-bayram-a91b06254/ 
-- Instagram: https://www.instagram.com/ozcan0/
+- Email    :  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ozzcanbayram@gmail.com" target="_blank">Send Me Mail</a>
+- Linkedin :  <a href="https://www.linkedin.com/in/%C3%B6zcan-bayram-a91b06254/ " target="_blank">My Lınkedın Profile</a>
+- Instagram:  <a href="https://www.instagram.com/ozcan0/" target="_blank">My Instagram Profile</a>
