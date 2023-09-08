@@ -6,9 +6,9 @@ You can review my projects, support me, and
 For more information about me, you can reach me from the links below.
 
 ## Languages
-![Langs](https://skillicons.dev/icons?i=cs,java,kotlin,html,css,mysql,")
+![Langs](https://skillicons.dev/icons?i=cs,java,kotlin,html,css,mysql,sqlite,")
 ## Learning
-![Langs](https://skillicons.dev/icons?i=javascript,ts,angular,dotnet,bootstrap,swift,flutter,dart,py,django,")
+![Langs](https://skillicons.dev/icons?i=javascript,ts,angular,dotnet,bootstrap,flutter,dart,py,django,")
 
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanbayram&layout=compact&theme=dracula)
