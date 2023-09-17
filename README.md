@@ -5,7 +5,7 @@ I love my job and I try to learn new things every day.
 You can review my projects, support me, and
 For more information about me, you can reach me from the links below.
 
-
+<!--
 
 ## Languages I currently use:
 ![Langs](https://skillicons.dev/icons?i=cs,java,mysql,html,css,")
@@ -16,13 +16,7 @@ For more information about me, you can reach me from the links below.
 ## I am working on these languages ​​for Web Development
 ![Langs](https://skillicons.dev/icons?i=cs,dotnet,html,css,javascript,ts,angular,django,mysql,")
 
-
-
-
-
-
-
-
+-->
 
 
 ## 📊 GitHub Stats:
