@@ -13,7 +13,7 @@ For more information about me, you can reach me from the links below.
 ## I am working on these languages for Mobile Development
 ![Langs](https://skillicons.dev/icons?i=java,kotlin,dart,flutter,python,sqlite,swift,")
 
-## I am working on it for Web Development.
+## I am working on these languages ​​for Web Development
 ![Langs](https://skillicons.dev/icons?i=cs,dotnet,html,css,javascript,ts,angular,django,mysql,")
 
 
