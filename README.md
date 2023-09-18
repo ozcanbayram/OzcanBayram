@@ -5,6 +5,9 @@ I love my job and I try to learn new things every day.
 You can review my projects, support me, and
 For more information about me, you can reach me from the links below.
 
+## Languages I'm currently working on
+![Langs](https://skillicons.dev/icons?i=cs,java,kotlin,sqlite,mysql,js,html,css,")
+
 <!--
 
 ## Languages I currently use:
