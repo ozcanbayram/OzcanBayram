@@ -6,7 +6,7 @@ You can review my projects, support me, and
 For more information about me, you can reach me from the links below.
 
 ## Languages I'm currently working on
-![Langs](https://skillicons.dev/icons?i=cs,java,kotlin,firebase,sqlite,mysql,php,js,html,css,figma,git,")
+![Langs](https://skillicons.dev/icons?i=cs,java,kotlin,flutter,dart,firebase,sqlite,mysql,php,js,html,css,figma,git,")
 
 <!--
 
