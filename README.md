@@ -1,9 +1,28 @@
 ## 💫 About Me 
-✨ Hello, I am Ozcan Bayram. I am 20 years old and a computer programming student. I am working to become a full-stack developer in web design and mobile development. <br>
+```
+✨ Hello, I am Özcan, i am 20 years old.
+I'm working on becoming full-stack Mobile and Web developer.
+I love my job and try to learn new things every day.
+You can review my projects,
+support me and contact me via the links below to get more information about me.
+
+```
+```
+✨ Merhaba ben Özcan, 20 yaşındayım.
+Tam kapsamlı Mobil ve Web geliştiricisi olmak için çalışıyorum.
+İşimi seviyorum ve her gün yeni şeyler öğrenmeye çalışıyorum.
+Hakkımda daha fazla bilgi almak için projelerimi inceleyebilir,
+bana destek olabilir ve aşağıdaki bağlantılardan bana ulaşabilirsiniz.
+
+```
+
+<hr>
+
+<!-- Hello, I am Ozcan Bayram. I am 20 years old and a computer programming student. I am working to become a full-stack developer in web design and mobile development. <br>
 When I was learning programming, I became proficient in the C# programming language, and now I am learning the languages necessary for mobile and web development. <br>
 I love my job and I try to learn new things every day.
 You can review my projects, support me, and
-For more information about me, you can reach me from the links below.
+For more information about me, you can reach me from the links below. -->
 
 ## I know 
 ![Langs](https://skillicons.dev/icons?i=cs,kotlin,firebase,php,html,css,figma,git,")
