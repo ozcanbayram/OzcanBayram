@@ -5,6 +5,16 @@ I love my job and I try to learn new things every day.
 You can review my projects, support me, and
 For more information about me, you can reach me from the links below.
 
+## I know 
+![Langs](https://skillicons.dev/icons?i=cs,kotlin,firebase,php,html,css,figma,git,")
+
+## Languages I'm currently working on
+![Langs](https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,mysql,dotnet,js,")
+
+## Tools i use 
+![Langs](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,git,github,pr,")
+
+<!--
 ## Languages I'm currently working on
 ![Langs](https://skillicons.dev/icons?i=cs,java,kotlin,flutter,dart,firebase,sqlite,mysql,php,js,html,css,figma,git,")
 
