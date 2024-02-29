@@ -65,7 +65,11 @@ For more information about me, you can reach me from the links below. -->
 </a>
 
 <a href="https://coursera.org/share/d4dfd67a5f56106db1fe70d988cab459" target="_blank">
-<img src = "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~J5FL7GTY98HD/CERTIFICATE_LANDING_PAGE~J5FL7GTY98HD.jpeg" alt = "Project Managament" width = "300" height = "150"/ >
+<img src = "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~J5FL7GTY98HD/CERTIFICATE_LANDING_PAGE~J5FL7GTY98HD.jpeg" alt = "Project Managament" width = "250" height = "150"/ >
+</a>
+
+<a href="https://www.coursera.org/account/accomplishments/verify/6BJM8U9VK7C5">
+<img src = "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6BJM8U9VK7C5/CERTIFICATE_LANDING_PAGE~6BJM8U9VK7C5.jpeg" alt = "Project Managament" width = "250" height = "150"/ >
 </a>
 
 ## 🌐 Socials - Contact:
@@ -73,7 +77,4 @@ For more information about me, you can reach me from the links below. -->
 - Linkedin :  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6zcan-bayram/) 
 - Instagram:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ozcan0/)
 - Web:  [![Web](https://img.shields.io/badge/Web-%23E4405F.svg?logo=OzcanBayram&logoColor=white)](https://www.ozcanbayram.com)
-
-
-
 
