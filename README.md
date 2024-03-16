@@ -55,6 +55,7 @@ For more information about me, you can reach me from the links below. -->
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanbayram&layout=compact&theme=dracula)
 
+<!--
 ## ⚡ Certificates
 <a href="https://www.udemy.com/certificate/UC-c9f1bb41-1444-4f53-8300-357469156655/" target="_blank">
 <img src = "https://github.com/ozcanbayram/OzcanBayram/assets/117665864/a82e9b64-023c-48a9-876d-6e3494609978" alt = "C#" width = "200" height = "150"/ >
@@ -71,7 +72,7 @@ For more information about me, you can reach me from the links below. -->
 <a href="https://www.coursera.org/account/accomplishments/verify/6BJM8U9VK7C5">
 <img src = "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6BJM8U9VK7C5/CERTIFICATE_LANDING_PAGE~6BJM8U9VK7C5.jpeg" alt = "Project Managament" width = "250" height = "150"/ >
 </a>
-
+ -->
 ## 🌐 Socials - Contact:
 - Email    :  [![E-mail](https://img.shields.io/badge/email-%23E4405F.svg?logo=email&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ozzcanbayram@gmail.com)
 - Linkedin :  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6zcan-bayram/) 
