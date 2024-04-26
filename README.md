@@ -1,3 +1,8 @@
+![giphy](https://media.giphy.com/media/QT9SVRVexMgOk/giphy.gif?cid=ecf05e477c9szjyvq30xz79acd6gpgfjicl3hxba16d22a3u&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<!--![giphy](https://media.giphy.com/media/26BRrEPIhI8CdTLEY/giphy.gif?cid=ecf05e477jcslhkzjzhho9ovzsg6m68ize6nf30q4utxeub2&ep=v1_gifs_search&rid=giphy.gif&ct=g)-->
+
+
+
 ## 💫 About Me 
 ```
 ✨ Hello, I am Özcan, i am 20 years old.
