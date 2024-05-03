@@ -84,3 +84,6 @@ For more information about me, you can reach me from the links below. -->
 - Instagram:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ozcan0/)
 - Web:  [![Web](https://img.shields.io/badge/Web-%23E4405F.svg?logo=OzcanBayram&logoColor=white)](https://www.ozcanbayram.com)
 
+
+<!-- A test commit for my local git bash!-->
+
