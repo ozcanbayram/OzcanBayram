@@ -5,7 +5,7 @@
 
 ## 💫 About Me 
 ```
-✨ Hello, I am Özcan, i am 20 years old.
+✨ Hello, I am Özcan, i am 21 years old.
 I'm working on becoming full-stack Mobile and Web developer.
 I love my job and try to learn new things every day.
 You can review my projects,
@@ -13,7 +13,7 @@ support me and contact me via the links below to get more information about me.
 
 ```
 ```
-✨ Merhaba ben Özcan, 20 yaşındayım.
+✨ Merhaba ben Özcan, 21 yaşındayım.
 Tam kapsamlı Mobil ve Web geliştiricisi olmak için çalışıyorum.
 İşimi seviyorum ve her gün yeni şeyler öğrenmeye çalışıyorum.
 Hakkımda daha fazla bilgi almak için projelerimi inceleyebilir,
