@@ -12,14 +12,16 @@ You can review my projects,
 support me and contact me via the links below to get more information about me.
 
 ```
+
+<!-- 
 ```
 ✨ Merhaba ben Özcan, 21 yaşındayım.
 Tam kapsamlı Mobil ve Web geliştiricisi olmak için çalışıyorum.
 İşimi seviyorum ve her gün yeni şeyler öğrenmeye çalışıyorum.
 Hakkımda daha fazla bilgi almak için projelerimi inceleyebilir,
 bana destek olabilir ve aşağıdaki bağlantılardan bana ulaşabilirsiniz.
-
 ```
+-->
 
 <hr>
 
