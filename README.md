@@ -33,11 +33,16 @@ For more information about me, you can reach me from the links below. -->
 ## Languages I'm currently working on
 ![Langs](https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,mysql,dotnet,js,") -->
 
+
+<!-- 
 ## Languages i use
 ![Langs](https://skillicons.dev/icons?i=flutter,dart,kotlin,java,firebase,sqlite,mysql,cs,dotnet,angular,html,css,") 
 
 ## Tools i use 
 ![Langs](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,git,github,pr,figma,")
+-->
+
+
 
 <!--
 ## Languages I'm currently working on
