@@ -4,32 +4,21 @@
 
 
 ## 💫 About Me 
-```
+
+<!--````-->
+
 ✨ Hello, I am Özcan, i am 21 years old.
 I'm working on becoming full-stack Mobile and Web developer.
 I love my job and try to learn new things every day.
 You can review my projects,
 support me and contact me via the links below to get more information about me.
 
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanbayram&layout=compact&theme=dracula)
 
-<!-- 
-```
-✨ Merhaba ben Özcan, 21 yaşındayım.
-Tam kapsamlı Mobil ve Web geliştiricisi olmak için çalışıyorum.
-İşimi seviyorum ve her gün yeni şeyler öğrenmeye çalışıyorum.
-Hakkımda daha fazla bilgi almak için projelerimi inceleyebilir,
-bana destek olabilir ve aşağıdaki bağlantılardan bana ulaşabilirsiniz.
-```
--->
+
 
 <hr>
 
-<!-- Hello, I am Ozcan Bayram. I am 20 years old and a computer programming student. I am working to become a full-stack developer in web design and mobile development. <br>
-When I was learning programming, I became proficient in the C# programming language, and now I am learning the languages necessary for mobile and web development. <br>
-I love my job and I try to learn new things every day.
-You can review my projects, support me, and
-For more information about me, you can reach me from the links below. -->
 
 <!--
 ## Languages I'm currently working on
@@ -62,11 +51,10 @@ For more information about me, you can reach me from the links below. -->
 ![Langs](https://skillicons.dev/icons?i=cs,dotnet,html,css,javascript,ts,angular,django,mysql,")
 
 -->
-
-
+<!--
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanbayram&layout=compact&theme=dracula)
-
+-->
 <!--
 ## ⚡ Certificates
 <a href="https://www.udemy.com/certificate/UC-c9f1bb41-1444-4f53-8300-357469156655/" target="_blank">
@@ -85,13 +73,14 @@ For more information about me, you can reach me from the links below. -->
 <img src = "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6BJM8U9VK7C5/CERTIFICATE_LANDING_PAGE~6BJM8U9VK7C5.jpeg" alt = "Project Managament" width = "250" height = "150"/ >
 </a>
  -->
+ <!-- 
 ## 🌐 Socials - Contact:
 - Email    :  [![E-mail](https://img.shields.io/badge/email-%23E4405F.svg?logo=email&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ozzcanbayram@gmail.com)
 - Linkedin :  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozcanbayram/) 
 - Instagram:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ozcan0/)
 - Twitter: [![Instagram](https://img.shields.io/badge/twitter-%23E4405F.svg?logo=twitter&logoColor=white)](https://x.com/ozcanbayram0)
 - Web:  [![Web](https://img.shields.io/badge/Web-%23E4405F.svg?logo=OzcanBayram&logoColor=white)](https://www.ozcanbayram.com)
-
+-->
 
 <!-- A test commit for my local git bash!-->  
 
