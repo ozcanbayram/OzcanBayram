@@ -87,10 +87,11 @@ For more information about me, you can reach me from the links below. -->
  -->
 ## 🌐 Socials - Contact:
 - Email    :  [![E-mail](https://img.shields.io/badge/email-%23E4405F.svg?logo=email&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ozzcanbayram@gmail.com)
-- Linkedin :  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6zcan-bayram/) 
+- Linkedin :  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozcanbayram/) 
 - Instagram:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ozcan0/)
+- Twitter: [![Instagram](https://img.shields.io/badge/twitter-%23E4405F.svg?logo=twitter&logoColor=white)](https://x.com/ozcanbayram0)
 - Web:  [![Web](https://img.shields.io/badge/Web-%23E4405F.svg?logo=OzcanBayram&logoColor=white)](https://www.ozcanbayram.com)
 
 
-<!-- A test commit for my local git bash!-->
+<!-- A test commit for my local git bash!-->  
 
