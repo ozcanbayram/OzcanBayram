@@ -17,11 +17,6 @@ support me and contact me via the links below to get more information about me.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozcanbayram&show_icons=true&theme=dracula&height=100) -->
 
-<h4 align="center">Visitor Count as of 31.07.24 :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{OzcanBayram}/count.svg" alt="OzcanBayran :: Visitor's Count" /></p>
-
-
-
 
 
 
