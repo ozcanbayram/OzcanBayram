@@ -3,9 +3,10 @@
 
 
 
-## 💫 About Me 
+## 💫 About Me  
 
-<!--````-->
+
+<!-- ![Profile views counter](https://komarev.com/ghpvc/?username=ozcanbayram-git&style=flat-square) -->
 
 ✨ Hello, I am Özcan, i am 21 years old.
 I'm working on becoming full-stack Mobile and Web developer.
