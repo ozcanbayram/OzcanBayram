@@ -2,17 +2,21 @@
 <!--![giphy](https://media.giphy.com/media/26BRrEPIhI8CdTLEY/giphy.gif?cid=ecf05e477jcslhkzjzhho9ovzsg6m68ize6nf30q4utxeub2&ep=v1_gifs_search&rid=giphy.gif&ct=g)-->
 
 
+<!--
 
 ## 💫 About Me  
-
+-->
 
 <!-- ![Profile views counter](https://komarev.com/ghpvc/?username=ozcanbayram-git&style=flat-square) -->
 
+<!--
 ✨ Hello, I am Özcan, i am 21 years old.
 I'm working on becoming full-stack Mobile and Web developer.
 I love my job and try to learn new things every day.
 You can review my projects,
 support me and contact me via the links below to get more information about me.
+
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanbayram&layout=compact&theme=dracula)
 
