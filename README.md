@@ -25,8 +25,6 @@ support me and contact me via the links below to get more information about me.
 
 
 
-<hr>
-
 
 <!--
 ## Languages I'm currently working on
