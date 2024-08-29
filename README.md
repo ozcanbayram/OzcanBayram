@@ -20,6 +20,10 @@
 </table>
 
 <!--
+<h3>GitHub Streak</h3>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanbayram&theme=dark" alt="Zal's GitHub Streak" />
+-->
+<!--
 
 ## 💫 About Me  
 -->
