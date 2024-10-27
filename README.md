@@ -12,9 +12,12 @@
  
   </td>
 
-  <td>
+  <td align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanbayram&theme=dark" alt="Zal's GitHub Streak" />
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanbayram&layout=compact&theme=dark)
+   
+
   </td>
  </tr>
 </table>
