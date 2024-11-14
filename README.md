@@ -8,17 +8,21 @@
  <tr>
   <td>
 
-   <!--
+ 
 ![giphy](https://media.giphy.com/media/QT9SVRVexMgOk/giphy.gif?cid=ecf05e477c9szjyvq30xz79acd6gpgfjicl3hxba16d22a3u&ep=v1_gifs_search&rid=giphy.gif&ct=g)
   
-   Streak is not found - empyt stats i'll update later
-   --> 
+
   </td>
 
   <td align="center">
+
+ <!--
    
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanbayram&theme=dark" alt="Ozcan's GitHub Streak" />
-
+   
+   Streak is not found - empyt stats i'll update later
+   
+-->
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanbayram&layout=compact&theme=dark)
    
