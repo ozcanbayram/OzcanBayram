@@ -17,12 +17,13 @@
   <td align="center">
 
  <!--
-   
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanbayram&theme=dark" alt="Ozcan's GitHub Streak" />
-   
+      
    Streak is not found - empyt stats i'll update later
    
 -->
+
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanbayram&theme=dark" alt="Ozcan's GitHub Streak" />
+
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanbayram&layout=compact&theme=dark)
    
