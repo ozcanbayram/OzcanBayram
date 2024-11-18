@@ -19,10 +19,16 @@
  <!--
       
    Streak is not found - empyt stats i'll update later
+
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ozcanbayram&theme=dark&hide_border=true&border_radius=4&card_width=500&card_height=200)](https://git.io/streak-stats)
+
+
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanbayram&theme=dark" alt="Ozcan's GitHub Streak" />
    
 -->
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanbayram&theme=dark" alt="Ozcan's GitHub Streak" />
+
+
 
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanbayram&layout=compact&theme=dark)
