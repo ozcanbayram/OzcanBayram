@@ -22,12 +22,12 @@
 
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ozcanbayram&theme=dark&hide_border=true&border_radius=4&card_width=500&card_height=200)](https://git.io/streak-stats)
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanbayram&theme=dark" alt="Ozcan's GitHub Streak" />
    
 
 -->
 
 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanbayram&theme=dark" alt="Ozcan's GitHub Streak" />
 
 
    
