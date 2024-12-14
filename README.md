@@ -1,33 +1,21 @@
-<!-- ![giphy](https://media.giphy.com/media/QT9SVRVexMgOk/giphy.gif?cid=ecf05e477c9szjyvq30xz79acd6gpgfjicl3hxba16d22a3u&ep=v1_gifs_search&rid=giphy.gif&ct=g) -->
- 
-
-<!--![giphy](https://media.giphy.com/media/26BRrEPIhI8CdTLEY/giphy.gif?cid=ecf05e477jcslhkzjzhho9ovzsg6m68ize6nf30q4utxeub2&ep=v1_gifs_search&rid=giphy.gif&ct=g)-->
-
-
 <table border="0">
  <tr>
   <td>
 
- 
 ![giphy](https://media.giphy.com/media/QT9SVRVexMgOk/giphy.gif?cid=ecf05e477c9szjyvq30xz79acd6gpgfjicl3hxba16d22a3u&ep=v1_gifs_search&rid=giphy.gif&ct=g)
   
-
   </td>
 
   <td align="center">
 
  <!--
-      
-   Streak is not found - empyt stats i'll update later
-
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ozcanbayram&theme=dark&hide_border=true&border_radius=4&card_width=500&card_height=200)](https://git.io/streak-stats)
 
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanbayram&theme=dark" alt="Ozcan's GitHub Streak" />
 
         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanbayram&layout=compact&theme=dark)
-
+        
 -->
-  
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanbayram&theme=dark" alt="Ozcan's GitHub Streak" />
 
   </td>
  </tr>
