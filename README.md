@@ -27,8 +27,10 @@
 
 -->
 
+<p align="center">
+ 
 ![giphy](https://media.giphy.com/media/QT9SVRVexMgOk/giphy.gif?cid=ecf05e477c9szjyvq30xz79acd6gpgfjicl3hxba16d22a3u&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
+</p>
 
 <!--
 <h3>GitHub Streak</h3>
